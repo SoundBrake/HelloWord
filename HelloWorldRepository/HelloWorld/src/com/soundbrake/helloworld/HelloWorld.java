@@ -3,8 +3,7 @@ package com.soundbrake.helloworld;
 /**
  * 
  * @author:Mary Jiang
- * @Date:
- * @Email: mesuper222@gmail.com
+ * @Date: * 
  *
  */
 public class HelloWorld {
